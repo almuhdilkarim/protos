@@ -1,5 +1,6 @@
-protocol_groups=""
+protocol_author="Al Muhdil Karim"
+protocol_groups="based"
 protocol_levels=""
-protocol_github=""
+protocol_github="https://github.com/almuhdilkarim/protos.git"
 protocol_gitlab=""
 protocol_gitloc=""
