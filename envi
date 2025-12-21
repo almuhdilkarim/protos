@@ -1,4 +1,4 @@
 protos_auth="Al Muhdil Karim"
-protos_base="based"
-protos_name=""
+protos_base="default"
+protos_name="default"
 protos_repo="https://github.com/almuhdilkarim/protos.git"
